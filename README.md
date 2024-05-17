@@ -19,6 +19,7 @@ The notebook requires the following Python libraries:
 - **seaborn**
 - **sklearn**
 - **statsmodels**
+
 These libraries can be installed via pip or conda. Example:
 
 `pip install pandas numpy matplotlib seaborn scikit-learn statsmodels`
